@@ -1,4 +1,4 @@
-Fast-stemmer is simply a wrapping around multithreaded
+Fast-stemmer is simply a wrapping around the  multithreaded
 Porter stemming algorithm.
 
 This gem adds a String#stem method, and it conflicts with the stemmer gem.
